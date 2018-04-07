@@ -4,6 +4,7 @@
     <list id="e870b735-7fed-404b-add6-a40cb4c6e0aa" name="New changelist" comment="New changelist" />
     <list default="true" id="32569288-fcb2-434a-bc5f-434ef4648cb6" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/src/Lesson7/Car.java" afterPath="$PROJECT_DIR$/src/Lesson7/Car.java" />
       <change beforePath="$PROJECT_DIR$/src/Lesson7/ClassInfo.java" afterPath="$PROJECT_DIR$/src/Lesson7/ClassInfo.java" />
       <change beforePath="$PROJECT_DIR$/src/Lesson7/FieidInfo.java" afterPath="$PROJECT_DIR$/src/Lesson7/FieidInfo.java" />
@@ -15,6 +16,8 @@
       <change beforePath="$PROJECT_DIR$/src/lesson7/Start.java" afterPath="$PROJECT_DIR$/src/lesson7/Start.java" />
       <change beforePath="$PROJECT_DIR$/src/lesson7/Technic.java" afterPath="" />
       <change beforePath="$PROJECT_DIR$/text.txt" afterPath="$PROJECT_DIR$/text.txt" />
+=======
+>>>>>>> Stashed changes
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
