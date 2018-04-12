@@ -24,7 +24,7 @@ public class Start {
             }
             System.out.println("Количество слов " + words);
 
-       
+
                 String text = scanner.nextLine();
                 HashMap<String,Integer> wordsCount = new HashMap<>();
             StringTokenizer tokenizer = new StringTokenizer(text, ",.:;!?\t");
