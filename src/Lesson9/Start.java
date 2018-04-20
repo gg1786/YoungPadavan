@@ -25,22 +25,7 @@ public class Start {
             System.out.println("Количество слов " + words);
 
 
-                String text = scanner.nextLine();
-                HashMap<String,Integer> wordsCount = new HashMap<>();
-            StringTokenizer tokenizer = new StringTokenizer(text, ",.:;!?\t");
-            while (tokenizer.hasMoreElements()) {
-                String token = tokenizer.nextToken();
-                Integer value = wordsCount.get(token);
-                if (value != null)
-                    wordsCount.put(token, value + 1);
-                else
-                    wordsCount.put(token, 1);
-            }
-            System.out.println("\ncount: %d\n"+ wordsCount.size());
-            for(Map.Entry<String,Integer> entry : wordsCount.entrySet())
-                System.out.println("%s -> %d\n"+ entry.getKey()+ entry.getValue());
-            scanner.close();
-            }
+        }
 }
 
 
