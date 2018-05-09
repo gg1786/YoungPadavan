@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="abc4dfa2-2d5b-4906-a618-0009164b4ad0" name="Default" comment="1">
-      <change afterPath="$PROJECT_DIR$/src/Lesson10/Start.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YoungPadavan/Lesson9/Start.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YoungPadavan/Lesson9/Start.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson12/Start.java" beforeDir="false" />
+    <list default="true" id="abc4dfa2-2d5b-4906-a618-0009164b4ad0" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Lesson10/Start.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson10/Start.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Lesson9/Start.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson9/Start.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -43,8 +39,8 @@
       <file leaf-file-name="Start.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Lesson10/Start.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+            <state relative-caret-position="222">
+              <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -326,12 +322,12 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.24285714" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24285714" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23645681" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32857144" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23645681" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.32857144" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -606,8 +602,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Lesson10/Start.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+        <state relative-caret-position="222">
+          <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
         </state>
       </provider>
     </entry>
